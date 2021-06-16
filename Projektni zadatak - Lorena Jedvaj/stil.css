@@ -1,0 +1,42 @@
+@charset "utf-8"
+/* CSS Document */
+p { 
+    color: red;	
+    font-family: Arial Black, "Lucida Bright", "DjaVU Serif", Arial Black, "serif";
+    font-size: 16px; 
+	line-height: 20px;
+	width: 600px
+	background-color: antiquewhite;
+	padding: 40px;
+	position: absolute;
+	top: 50% 
+	text-align: center;
+	
+	
+}
+h1, h2{ 
+   font-family: Arial Black, "Helvetica Neue", Arial Black, "sans-serif";
+   color:cadetblue;
+}
+
+span{color: rgb(243,5,255);}
+.pozadina{
+	background-image: url("Slike/nebo.jpg");
+	background-color: antiquewhite;
+}
+.drugapozadina {
+	background-color:antiquewhite;
+}
+a:link {
+	color: black;
+	background-color: antiquewhite;
+	padding: 1px;
+	line-height: 30px
+	border: 1px solid #000000;
+}
+a:hover{
+	background-color: gray;
+}
+img{
+	height:200px;
+}
